@@ -1,3 +1,5 @@
 # psy-api
 
-posered by https://docs.mockend.com/
+powered by https://docs.mockend.com/
+
+endpoint available at: https://mockend.com/apkh/psy-api/posts

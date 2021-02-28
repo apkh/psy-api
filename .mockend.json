@@ -1,7 +1,7 @@
 {
   "Post": {
     "title": "string",
-    "category": "string[]",
+    "category": "string",
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
